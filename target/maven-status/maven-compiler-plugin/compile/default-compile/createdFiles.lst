@@ -1,0 +1,6 @@
+com\jsonchallenge\sevice\InsertIntoDb.class
+com\jsonchallenge\utility\DbConnection.class
+com\jsonchallenge\client\JsonFileReader.class
+com\jsonchallenge\dao\InsertBooksDaoImpl.class
+com\jsonchallenge\model\Author.class
+com\jsonchallenge\model\Book.class
